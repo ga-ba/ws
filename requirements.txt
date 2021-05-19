@@ -1,6 +1,5 @@
 lxml
 bs4
 widgetsnbextension
-pil
 pillow
 matplotlib
