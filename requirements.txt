@@ -4,3 +4,4 @@ widgetsnbextension
 pillow
 matplotlib
 pandas
+selenium
