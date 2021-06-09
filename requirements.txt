@@ -5,6 +5,5 @@ pillow
 matplotlib
 pandas
 selenium
-selenium.webdriver.common.keys
 webdriver_manager
 time
