@@ -4,6 +4,5 @@ widgetsnbextension
 pillow
 matplotlib
 pandas
-numpy
 math
 matplotlib.pyplot
