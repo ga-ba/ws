@@ -1,0 +1,6 @@
+lxml
+bs4
+widgetsnbextension
+pillow
+matplotlib
+pandas
