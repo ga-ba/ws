@@ -5,4 +5,4 @@ pillow
 matplotlib
 pandas
 seaborn
-sqlite3
+sqlite
