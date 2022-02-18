@@ -4,3 +4,5 @@ widgetsnbextension
 pillow
 matplotlib
 pandas
+seaborn
+sqlite3
