@@ -5,4 +5,5 @@ pillow
 matplotlib
 pandas
 seaborn
-
+scikit-image
+scikit-learn
