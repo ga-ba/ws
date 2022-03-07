@@ -7,3 +7,5 @@ pandas
 seaborn
 scikit-image
 scikit-learn
+keras
+pandas_datareader
