@@ -10,4 +10,3 @@ scikit-learn
 keras
 pandas_datareader
 tensorflow
-google.cloud
