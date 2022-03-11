@@ -10,3 +10,5 @@ scikit-learn
 keras
 pandas_datareader
 tensorflow
+requests
+requests_thml
