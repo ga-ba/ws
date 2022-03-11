@@ -11,4 +11,4 @@ keras
 pandas_datareader
 tensorflow
 requests
-requests_thml
+requests_html
