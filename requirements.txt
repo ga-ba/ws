@@ -12,5 +12,4 @@ pandas_datareader
 tensorflow
 requests
 requests_html
-cv2
 PIL
