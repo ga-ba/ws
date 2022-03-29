@@ -12,3 +12,4 @@ pandas_datareader
 tensorflow
 requests
 requests_html
+fitz
